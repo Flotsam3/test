@@ -1,0 +1,23 @@
+{
+  "name": "github-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flotsam3/temp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flotsam3/temp/issues"
+  },
+  "homepage": "https://github.com/Flotsam3/temp#readme",
+  "dependencies": {
+    "google-translate-api-x": "^10.6.1"
+  }
+}
